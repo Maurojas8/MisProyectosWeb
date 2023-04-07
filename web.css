@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.clic {
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    padding: 0px 8%;
+    box-sizing: border-box;
+}
+.dojo {
+    background-color: rgb(185, 181, 181);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    padding: 20px 30px;
+    font-size: 1.4rem;
+}
+.ninja {
+    background-color: white;
+    height: 80%;
+    margin-top: 16px;
+    display: flex;
+}
+.busqueda {
+    border: 2px solid black;
+    padding: 0px 2px;
+    width: 400px;
+}
+.cambio {
+    width: 80px;
+    background-color: blue;
+    color: white;
+    box-shadow: 2px 2px black;
+}
+.ninja21 {
+    border: 2px solid black;
+    padding: 10px 30px;
+    display: flex;
+    width: 650px;
+    font-size: 1.4rem;
+}
+.ninja22 {
+    border: 2px solid black;
+    margin-top: 16px;
+    padding: 10px 30px;
+    display: flex;
+    width: 650px;
+    font-size: 1.4rem;
+}
+.ninja3 {
+    border: 2px solid black;
+    flex-direction: row;
+    width: 400px;
+    height: 140px;
+    padding: 10px;
+    margin-left: 16px;
+    font-size: 1.4rem;
+}
+.texto {
+    flex: 2;
+    margin-top: 36px;
+    margin-left: 50px;
+}
+.primero {
+    flex: 1;
+}
+.like {
+    background-color: gold;
+    box-shadow: 2px 2px black;
+    width: 100px;
+    height: 40px;
+    font-size: 1.1rem;
+}
+.center {
+    margin: 10px 0px;
+}
+span {
+    display: block;
+}
+.eleminar {
+    background-color: rgb(91, 194, 91);
+    box-shadow: 2px 2px black;
+    width: 330px;
+    height: 34px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
